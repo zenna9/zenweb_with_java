@@ -12,7 +12,8 @@
 		<ul>
 			<li> 아이디 : <input type="text" name="id"></li>
 			<li> 비밀번호 : <input type="password" name="password"></li>
-			<li> 이름 : <input type="text" name="name"></li>
+			<li> 성(family name) : <input type="text" name="name"></li>
+			<li> 이름(first name) : <input type="text" name="name"></li>
 			<li> 생년월일 : <input type="date" name="birth"></li>
 		</ul>
 		<input type="hidden" value="a=joinFormSubmit"/>
